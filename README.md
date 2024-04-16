@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv)
 <h1 align="center">Hi 👋, I'm Muhammad Ayyan</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
