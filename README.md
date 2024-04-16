@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv)
+
 <h1 align="center">Hi 👋, I'm Muhammad Ayyan</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyanirfan&show_icons=true&locale=en" alt="ayyanirfan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyanirfan&" alt="ayyanirfan" /></p>
-# Ayyanirfan
